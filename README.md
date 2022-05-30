@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/nschloe/dmsh"><img alt="dmsh" src="https://nschloe.github.io/dmsh/logo-with-text.svg" width="50%"></a>
+  <a href="https://github.com/nschloe/dmsh"><img alt="dmsh" src="https://github.com/mohm-dhi/dmsh/blob/gh-pages/logo-with-text.svg" width="50%"></a>
   <p align="center">The worst mesh generator you'll ever use.</p>
 </p>
 
